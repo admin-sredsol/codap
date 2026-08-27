@@ -131,6 +131,12 @@ const locales = [
     icon: 'flag flag-br'
   },
   {
+    langName: 'Slovenščina',
+    langCode: 'sl',
+    countryDigraph: 'SI',
+    icon: 'flag flag-si'
+  },
+  {
     langName: 'ไทย',
     langCode: 'th',
     countryDigraph: 'TH',
